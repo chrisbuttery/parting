@@ -1,0 +1,46 @@
+{
+  "name": "parting",
+  "version": "1.0.1",
+  "description": "Goodbye in many languages",
+  "main": "index.js",
+  "files": [
+    "LICENSE",
+    "index.js",
+    "README.md"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "meow": "^3.0.0",
+    "unique-random-array": "^1.0.0"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.4",
+    "faucet": "0.0.1",
+    "istanbul": "^0.3.19",
+    "standard": "^5.2.1",
+    "tape": "^4.2.0"
+  },
+  "scripts": {
+    "test": "node test | faucet",
+    "posttest": "standard *.js text/*.js",
+    "test-cov": "standard *.js text/*.js && istanbul cover test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisbuttery/parting.git"
+  },
+  "keywords": [
+    "parting",
+    "partings",
+    "goodbye",
+    "bye"
+  ],
+  "author": "Chris Buttery <info@chrisbuttery.com> (http://www.chrisbuttery.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisbuttery/parting/issues"
+  },
+  "homepage": "https://github.com/chrisbuttery/parting"
+}
