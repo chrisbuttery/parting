@@ -1,13 +1,15 @@
 {
   "name": "parting",
-  "version": "1.0.5",
-  "description": "Common ways to say good-bye.",
+  "version": "1.0.6",
+  "description": "Different ways to say good-bye.",
   "main": "index.js",
+  "bin": {
+    "parting": "cli.js"
+  },
   "files": [
-    "LICENSE",
     "index.js",
-    "README.md",
-    "cli.js"
+    "cli.js",
+    "partings.json"
   ],
   "directories": {
     "test": "test"
