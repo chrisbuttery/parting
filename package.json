@@ -38,9 +38,9 @@
     "bye"
   ],
   "author": "Chris Buttery <info@chrisbuttery.com> (http://www.chrisbuttery.com)",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/chrisbuttery/parting/issues"
   },
-  "homepage": "https://github.com/chrisbuttery/parting"
+  "homepage": "https://github.com/chrisbuttery/parting",
+  "license": "MIT"
 }
