@@ -5,7 +5,7 @@
 [![Test coverage][coveralls-image]][coveralls-url]
 [![js-standard-style][standard-image]][standard-url]
 
-Common ways to say good-bye.
+Different ways to say good-bye.
 
 ## Install
 
