@@ -1,7 +1,7 @@
 {
   "name": "parting",
-  "version": "1.0.1",
-  "description": "Goodbye in many languages",
+  "version": "1.0.2",
+  "description": "Common ways to say good-bye.",
   "main": "index.js",
   "files": [
     "LICENSE",
