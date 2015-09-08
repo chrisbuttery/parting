@@ -1,6 +1,6 @@
 {
   "name": "parting",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Common ways to say good-bye.",
   "main": "index.js",
   "files": [
