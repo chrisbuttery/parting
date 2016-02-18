@@ -46,7 +46,7 @@ $ parting --help
   Options
     --all   Get all partings instead of a random parting
 ```
-See also: [Greeting]("https://github.com/chrisbuttery/greeting" "Greeting: Different ways to say hello.")
+See also: [Greeting](https://github.com/chrisbuttery/greeting "Greeting: Different ways to say hello.")
 
 Inspired by [sindresorhus](https://github.com/sindresorhus/dog-names)
 
